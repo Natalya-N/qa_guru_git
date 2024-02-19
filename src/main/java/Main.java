@@ -2,9 +2,9 @@ import java.sql.SQLOutput;
 
 public class Main {
 
-    String testMessage = "Test message"
+    String testMessage = "New Test message"
     
-    String message = "Hello world!"
+    String message = "Hello qa.guru!"
 
     public static void main(String[] args) {
         System.out.println(message);

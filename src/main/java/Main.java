@@ -2,11 +2,11 @@ import java.sql.SQLOutput;
 
 public class Main {
 
-    String testMessage = "Test message"
+    String testMessage = "Test message";
     
-    String message = "Hello world!"
+    String message = "Hello world!";
 
-    public static void main(String[] args) {
+    public static void printMessage(String message) {
         System.out.println(message);
     }
 

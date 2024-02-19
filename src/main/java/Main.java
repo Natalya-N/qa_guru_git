@@ -10,5 +10,8 @@ public class Main {
         System.out.println(message);
     }
 
+    public static String getMessage() {
+        return "Hello message!";
+    }
 
 }
